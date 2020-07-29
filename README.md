@@ -1,4 +1,4 @@
-# TensorFloe-Object-Detection
+# TensorFlow-Object-Detection
 First I installed tensorflow-gpu 
 The source  https://youtu.be/KZFn0dvPZUQ  (read the comment)
 After installing tensorflow-gpu we can download and run any TF model 
